@@ -42,6 +42,8 @@ Use Case:
 
 Designed for individuals or institutions that require a local, secure vault to encrypt, decrypt, and manage sensitive documents with an intuitive user interface.
 
+<img width="501" height="357" alt="image" src="https://github.com/user-attachments/assets/86143ed3-3301-41ff-bc51-f597d731e014" />
+<img width="1106" height="738" alt="image" src="https://github.com/user-attachments/assets/29dac648-84c7-4b2b-8863-4caa36bca20e" />
 
 
 ## Deployment
